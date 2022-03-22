@@ -27,7 +27,7 @@
             android:value="AIzaSyCoBtbtaB-G3G8wKjUzkvewgDVBksT5KOc" />
 
         <activity
-            android:name=".MapsActivity"
+            android:name=".KePlanApp"
             android:exported="true"
             android:label="@string/title_activity_maps">
             <intent-filter>
